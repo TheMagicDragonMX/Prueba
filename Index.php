@@ -1,5 +1,5 @@
 <?php
 
 echo("Hello world");
-echo("CTM ROY12");
+echo("CTM ROY");
 ?>
